@@ -1,0 +1,95 @@
+/* Cookie sectin */
+#cookie-consent-message { 
+  border: solid 1em #2699FB; 
+  display: block;
+  z-index: 100;
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  padding: 1em;
+  font-family: "Berlin Sans FB", Arial;
+  background-color: #FFFFFF;
+}
+#title {
+	font-size: 10pt;
+	color: #000000;
+}
+#payoff-section {
+	font-size: 10pt;
+	color: #444444;
+	background-color: #2699FB;
+}
+article h3 {
+	background-color: #2699FB;
+}
+article, p {
+	background-color: #AAAAAA;
+}
+footer >a {
+	color: #2699FB;
+}
+/* navigation section */
+#nav-bar {
+	font-size: 1.5em;
+	background-color: #707070;
+	color: #F5F5F5;
+	text-transform: uppercase;
+}
+#nav-bar li a: hover {
+	color: #2699FB;
+	background-color: #AAAAAA;
+}
+#nav-bar li a: active {
+	color: #2699FB;
+	background-color: #444444;	
+}
+#maincontent{
+	font-size: 1em;
+	color: #AAAAAA;
+}
+#cloudy-windmill-bg 
+{
+	object-fit: cover;
+	width: 100%;
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	z-index: -1;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	left: 0;
+	margin: 0 auto;
+}
+body
+{
+	margin: 0;
+	padding: 2em;
+	font-family: Helvetica, sans-serif, Arial;
+	-webkit-flex: 1; /* Safari 6.1+ */
+	-ms-flex: 1; /* IE 10 */
+	flex: 1;
+	
+}
+#contactcontent {
+	float:	unset;
+}
+
+h1, h2, h3 {
+	color: #000000;
+}
+h1 {
+	font-size: 30pt	
+}
+h2 {
+	font-size: 25pt	
+}
+h3 {
+	font-size: 15pt		
+}
+p {
+	color: #000000;
+}
+
