@@ -1,4 +1,4 @@
 Student name: Anna Aleszczyk
 Studentnumber: 642659
 Student class: IT1b
-GitHub repository: https://github.com/aniaa1987phi/Web-Markup-Project.git
+GitHub repository: https://github.com/AleAnia/WebMarkupProject.git
