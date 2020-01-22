@@ -25,6 +25,8 @@ article h3 {
 }
 article, p {
 	background-color: #AAAAAA;
+	padding-left: 2em;
+	padding-right: 2em;
 }
 footer >a {
 	color: #2699FB;
@@ -71,6 +73,7 @@ body
 	-webkit-flex: 1; /* Safari 6.1+ */
 	-ms-flex: 1; /* IE 10 */
 	flex: 1;
+
 	
 }
 #contactcontent {
